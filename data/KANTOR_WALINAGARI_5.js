@@ -1,0 +1,1 @@
+var json_KANTOR_WALINAGARI_5 = {"type":"FeatureCollection","name":"KANTOR_WALINAGARI_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":"0","Nama":"Kantor Wali Nagari"},"geometry":{"type":"Point","coordinates":[100.720040383909463,-0.984404606480721]}}]}

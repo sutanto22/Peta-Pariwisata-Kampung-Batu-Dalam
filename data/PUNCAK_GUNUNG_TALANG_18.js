@@ -1,0 +1,1 @@
+var json_PUNCAK_GUNUNG_TALANG_18 = {"type":"FeatureCollection","name":"PUNCAK_GUNUNG_TALANG_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":"0","Puncak_Gun":"Puncak Gunung Talang"},"geometry":{"type":"Point","coordinates":[100.681756974632563,-0.979259473440433]}}]}
